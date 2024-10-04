@@ -1,3 +1,4 @@
+
 // Array extraño
 const strangeArray = [
   "Zero",
